@@ -1,5 +1,5 @@
 import React from "react"
-
+import image from "next/image"
 const page = () => {
     return (
         <div><figure className="bg-slate-100 rounded-xl p-8 dark:bg-slate-800">
